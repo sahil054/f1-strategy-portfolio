@@ -38,7 +38,7 @@ pandas → matplotlib/plotly → FastF1 → scikit-learn (regression) → Monte 
 ## Phase 1 races
 - **01 — 2019 Hungarian GP** (Hamilton vs. Verstappen): Verstappen overcut too far into a long second stint, losing his time cushion to tire degradation before being forced to pit with nothing left to defend.
 - **02 — 2019 German GP / Hockenheim** (Hamilton vs. Vettel): Hamilton's aquaplane/barrier incident cascaded into a 69s repair stop and a 5s penalty; Vettel's clean, error-free execution across 5 stops plus strong closing pace drove a P20→P2 recovery.
-- **03 — TBD** (next up: 2021 Turkish GP — Bottas's intermediate-tire gamble)
+- **03 — 2021 Turkish GP(Istanbul Park)** (Bottas's intermediate-tire gamble) Ferrari's risky gamble to keep Leclerc out on old intermediates, costing Ferrari & Leclerc a podium ; as Bottas, Verstappen, and Perez go for a conservative strategy to temporarily concede track position to gain fresh tire advantage.
 - **04 — TBD**
 - **05 — TBD**
 

@@ -10,6 +10,8 @@ Each analysis leads with a racing question — not a technical one — then uses
 |---|------|----------|-------------|
 | 01 | [2019 Hungarian GP](notebooks/01_hungary_2019_undercut.ipynb) | How did Hamilton beat Verstappen without a single overtake? | Verstappen overcut too far into a long second stint, losing his time cushion to tire degradation before being forced to pit with no buffer left. |
 | 02 | [2019 German GP](notebooks/02_germany_2019_wet_chaos.ipynb) | Why did Vettel recover from P20 to P2 while pole-sitter Hamilton finished outside the points? | Hamilton's single driving error cascaded into a 69-second repair stop and a time penalty; Vettel's five clean, error-free pit stops and strong closing pace drove the recovery. |
+| 03 | [2021 Turkish GP](notebooks/03_turkey_2021_intermediate_gamble.ipynb) | Leclerc led for nearly 10 laps on aging tires. Why did he finish P4, not on the podium? | Ferrari's gamble to stay out worked for most of its length, but both Red Bulls pitted earlier and closed the gap on fresh tires — the pass became inevitable once Leclerc was finally forced to stop. |
+
 
 *More races in progress — see [PROJECT_PLAN.md](PROJECT_PLAN.md) for the full roadmap.*
 
