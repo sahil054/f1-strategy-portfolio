@@ -49,5 +49,6 @@ pandas → matplotlib/plotly → FastF1 → scikit-learn (regression) → Monte 
 - **[Update]** — Hungary 2019 and Germany 2019 analyses completed and pushed to GitHub.
 - **[Update]** — Turkish GP 2019 analysis completed and pushed to GitHub.
 - **[Update]** — Singapore 2023 analysis completed and pushed to GitHub.
-**[Update]** — Monza 2024 analysis completed and pushed. **Phase 1 complete: 5 of 5 planned race post-mortems finished.** Next: Phase 2 (tire degradation modeling and undercut calculator).
+- **[Update]** — Monza 2024 analysis completed and pushed. 
+- **Phase 1 complete: 5 of 5 planned race post-mortems finished.** Next: Phase 2 (tire degradation modeling and undercut calculator).
 
