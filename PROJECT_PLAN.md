@@ -40,11 +40,7 @@ pandas → matplotlib/plotly → FastF1 → scikit-learn (regression) → Monte 
 - **02 — 2019 German GP / Hockenheim** (Hamilton vs. Vettel): Hamilton's aquaplane/barrier incident cascaded into a 69s repair stop and a 5s penalty; Vettel's clean, error-free execution across 5 stops plus strong closing pace drove a P20→P2 recovery.
 - **03 — 2021 Turkish GP(Istanbul Park)** (Bottas's intermediate-tire gamble) Ferrari's risky gamble to keep Leclerc out on old intermediates, costing Ferrari & Leclerc a podium ; as Bottas, Verstappen, and Perez go for a conservative strategy to temporarily concede track position to gain fresh tire advantage.
 - **04 — 2023 Singapore GP** (Sainz vs. Russell, with Norris as key supporting factor): Sainz managed pace early for a one-stop, then used Norris as a deliberate DRS shield to defend against Mercedes's late fresh-tire gamble on Russell, which nearly succeeded before Russell crashed on the final lap.    
-- **05 — TBD**
-
-## Phase 1 candidate races (not yet started)
-- 2021 Azerbaijan GP — red flag / restart strategy
-- 2022 British GP — mixed conditions, safety car timing
+- **05 — 2024 Italian GP** (Leclerc vs. Piastri): Leclerc broke from the field's conventional two-stop plan for a one-stop gamble; his tires held up long enough to inherit the lead when Piastri's second stop came due, surviving a late fresh-tire chase to win by 2.664 seconds.
 
 ---
 
@@ -53,4 +49,5 @@ pandas → matplotlib/plotly → FastF1 → scikit-learn (regression) → Monte 
 - **[Update]** — Hungary 2019 and Germany 2019 analyses completed and pushed to GitHub.
 - **[Update]** — Turkish GP 2019 analysis completed and pushed to GitHub.
 - **[Update]** — Singapore 2023 analysis completed and pushed to GitHub.
+**[Update]** — Monza 2024 analysis completed and pushed. **Phase 1 complete: 5 of 5 planned race post-mortems finished.** Next: Phase 2 (tire degradation modeling and undercut calculator).
 

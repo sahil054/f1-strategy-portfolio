@@ -12,6 +12,7 @@ Each analysis leads with a racing question — not a technical one — then uses
 | 02 | [2019 German GP](notebooks/02_germany_2019_wet_chaos.ipynb) | Why did Vettel recover from P20 to P2 while pole-sitter Hamilton finished outside the points? | Hamilton's single driving error cascaded into a 69-second repair stop and a time penalty; Vettel's five clean, error-free pit stops and strong closing pace drove the recovery. |
 | 03 | [2021 Turkish GP](notebooks/03_turkey_2021_intermediate_gamble.ipynb) | Leclerc led for nearly 10 laps on aging tires. Why did he finish P4, not on the podium? | Ferrari's gamble to stay out worked for most of its length, but both Red Bulls pitted earlier and closed the gap on fresh tires — the pass became inevitable once Leclerc was finally forced to stop. |
 | 04 | [2023 Singapore GP](notebooks/04_singapore_2023_tire_management.ipynb) | How did Sainz hold off a late, nearly-successful Mercedes undercut charge? | Sainz managed pace early to make a one-stop viable, then used Norris as a deliberate DRS shield in the closing laps to blunt Mercedes's fresh-tire gamble — Russell closed to within 1.5s before crashing out on the final lap. |
+| 05 | [2024 Italian GP](notebooks/05_monza_2024_onestop_gamble.ipynb) | Leclerc broke from the field's two-stop plan for a one-stop bet. How close did it come to failing? | Leclerc's tires held up for 38 laps, long enough to inherit the lead the moment Piastri's second stop came due — but Piastri closed a near-19-second gap down to 2.664s by the finish on fresher rubber. |
 
 
 
